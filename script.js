@@ -71,7 +71,12 @@
 
 // console.log(document.body.firstElementChild.firstElementChild.nextElementSibling);
 
-console.log(document.body.firstElementChild.firstElementChild.parentElement);
+// console.log(document.body.firstElementChild.firstElementChild.parentElement);
+
+
+
+    //Selecting Elements
+    console.log(document.body.firstElementChild.firstElementChild.parentElement);
 
 
 
