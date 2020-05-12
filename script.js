@@ -76,8 +76,13 @@
 
 
     //Selecting Elements
-    console.log(document.body.firstElementChild.firstElementChild.parentElement);
+// console.log(document.getElementsByTagName('li'));
 
+// console.log(document.getElementsByClassName('simple'));
+
+// console.log(document.getElementById('test'));
+
+console.log(document.getElementById('test'));
 
 
 
