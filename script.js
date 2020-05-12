@@ -21,7 +21,24 @@
 // console.log(window.document);
 
 // window.open('http://www.google.com')
-window.open('http://www.google.com')
+
+
+
+    //The Location Object
+// console.log(location);
+
+// console.log(location.hostname);
+
+// console.log(location.pathname);
+
+// //Navigate on github for example, open the console and run next bellow commands:
+// console.log(location.pathname)
+// location.replace('http://google.com')
+
+// //Reload to infinite the page:
+// console.log(location.reload(true));
+
+
 
 
 
