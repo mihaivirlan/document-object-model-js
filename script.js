@@ -40,6 +40,25 @@
 
 
 
+    //The Document Object and How to Interact with It
+// console.log(document);
+
+// console.log(document.title);
+
+// console.log(document.body);
+
+// console.log(document.body.children);
+
+// console.log(document.body.children[0]);
+
+// console.log(document.body.children[0].textContent);
+
+// //Run in console.log in browser:
+// document.body.children[0].textContent = 'Something';
+
+
+
+
 
 
 
