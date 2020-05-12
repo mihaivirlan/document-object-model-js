@@ -82,7 +82,26 @@
 
 // console.log(document.getElementById('test'));
 
-console.log(document.getElementById('test'));
+// console.log(document.getElementById('test'));
+
+
+
+    //Selecting Elements with the Query Selector
+// console.log(document.querySelector('h1'));
+
+// console.log(document.querySelector('.simple'));
+
+// console.log(document.querySelector('#test'));
+
+// document.querySelector('#easy').style.backgroundColor = 'red';
+
+//If we want to get the array with all elements matching to this querry, we would to use the querySelectorAll: 
+// console.log(document.querySelectorAll('.simple'));
+
+//In this case we will select the first one:
+// console.log(document.querySelector('.simple'));
+
+// document.querySelector('.simple').style.backgroundColor = 'red';
 
 
 
