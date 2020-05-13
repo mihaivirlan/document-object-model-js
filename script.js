@@ -161,8 +161,19 @@
 
 
     //Elements and Nodes
-var a = document.querySelectorAll('a')[1];
-a.parentNode.removeChild(a);
+// var a = document.querySelectorAll('a')[1];
+// a.parentNode.removeChild(a);
+
+
+
+    //Dialogs
+// alert('This an alert!')
+
+// console.log(confirm('Are you sure?'));
+
+// console.log(prompt('Your name?'));
+
+
 
 
 
