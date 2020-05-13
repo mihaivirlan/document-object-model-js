@@ -112,9 +112,39 @@
 
 // document.querySelectorAll('.simple')[1].style.backgroundColor = 'red';
 
-document.querySelector('.simple').firstElementChild.textContent = 'Hello';
+// document.querySelector('.simple').firstElementChild.textContent = 'Hello';
+
+// var testFunction = function() {
+//     document.querySelector('.simple').firstElementChild.textContent = 'Hello';
+// }
+// testFunction();
 
 
+
+    //Creating and Inserting Elements
+// var p = document.createElement('P');
+// p.textContent = 'A new paraghraph!';
+// p.style.fontSize = '17px';
+// console.log(p);
+
+// var p = document.createElement('P');
+// p.textContent = 'A new paraghraph!';
+// p.style.fontSize = '17px';
+// var a = document.querySelector('a');
+// a.appendChild(p);
+
+// var p = document.createElement('P');
+// p.textContent = 'A new paraghraph!';
+// p.style.fontSize = '17px';
+// var li = document.querySelector('li');
+// li.appendChild(p);
+
+// var p = document.createElement('P');
+// p.textContent = 'A new paraghraph!';
+// p.style.fontSize = '17px';
+// var li = document.querySelector('li');
+// var a = li.firstElementChild;
+// li.insertBefore(p, a);
 
 
 
