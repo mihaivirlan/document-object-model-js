@@ -148,7 +148,15 @@
 
 
 
+    //Deleting Elements
+// var a = document.querySelectorAll('a')[1];
+// a.parentElement.removeChild(a);
 
+// var a = document.querySelectorAll('a')[1];
+// a.remove(); //this method work, but not in all browsers
+
+var a = document.querySelectorAll('a')[1];
+a.parentElement.removeChild(a);
 
 
 
